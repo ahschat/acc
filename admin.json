@@ -1,6 +1,6 @@
 {
   "name": "Admin",
   "type": "vip",
-  "banned": false,
+  "banned": true,
   "banreason": "N/A"
 }
