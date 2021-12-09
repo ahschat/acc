@@ -1,0 +1,6 @@
+{
+  "name": "Ban",
+  "type": "vip",
+  "banned": true,
+  "banreason": "Test Ban"
+}
