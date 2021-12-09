@@ -1,5 +1,5 @@
 {
   "name": "Admin",
-  "type": "vip", // standard, premium, vip
+  "type": "vip",
   "banned": false
 }
