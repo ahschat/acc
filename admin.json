@@ -3,5 +3,6 @@
   "type": "VIP",
   "banned": false,
   "banreason": "N/A",
-  "email": "None"
+  "email": "None",
+  "alertmsg": "None"
 }
