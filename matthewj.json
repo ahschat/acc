@@ -3,5 +3,6 @@
   "type": "VIP",
   "banned": false,
   "banreason": "N/A",
-  "email": "johnsonm@amerysd.k12.wi.us"
+  "email": "johnsonm@amerysd.k12.wi.us",
+  "alertmsg": "None"
 }
