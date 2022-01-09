@@ -4,5 +4,6 @@
   "banned": false,
   "banreason": "N/A",
   "email": "None",
-  "alertmsg": "None"
+  "alertmsg": "None",
+  "staff": true
 }
