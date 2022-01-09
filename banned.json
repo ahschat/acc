@@ -2,5 +2,6 @@
   "name": "Ban",
   "type": "vip",
   "banned": true,
-  "banreason": "Test Ban"
+  "banreason": "Test Ban",
+  "alertmsg": "None"
 }
