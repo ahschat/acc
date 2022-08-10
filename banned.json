@@ -3,5 +3,6 @@
   "type": "vip",
   "banned": true,
   "banreason": "Test Ban",
-  "alertmsg": "None"
+  "alertmsg": "None",
+  "pin": 1
 }
