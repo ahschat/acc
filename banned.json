@@ -2,7 +2,7 @@
   "name": "Ban",
   "type": "vip",
   "banned": true,
-  "banreason": "Test Ban",
+  "banreason": "Account Sharing",
   "alertmsg": "None",
   "pin": 1
 }
