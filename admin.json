@@ -4,7 +4,7 @@
   "banned": false,
   "banreason": "N/A",
   "email": "None",
-  "alertmsg": "None",
+  "alertmsg": "Test Alert",
   "staff": true,
   "pin": "proyo9"
 }
