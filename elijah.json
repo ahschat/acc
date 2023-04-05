@@ -4,5 +4,6 @@
   "banned": false,
   "banreason": "N/A",
   "email": "hollande@amerysd.k12.wi.us",
-  "alertmsg": "None"
+  "alertmsg": "None",
+  "pin": 85610
 }
