@@ -1,0 +1,10 @@
+{
+  "name": "Toad Toucher",
+  "type": "VIP",
+  "banned": false,
+  "banreason": "N/A",
+  "email": "None",
+  "alertmsg": "None",
+  "staff": true,
+  "pin": "toad"
+}
