@@ -1,0 +1,10 @@
+{
+  "name": "Basic Guy",
+  "type": "Basic",
+  "banned": false,
+  "banreason": "N/A",
+  "email": "None",
+  "alertmsg": "Test Alert",
+  "staff": true,
+  "pin": "proyo9"
+}
