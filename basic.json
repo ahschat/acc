@@ -1,8 +1,8 @@
 {
   "name": "Basic Guy",
   "type": "Basic",
-  "banned": false,
-  "banreason": "N/A",
+  "banned": true,
+  "banreason": "Payment not recieved.",
   "email": "None",
   "alertmsg": "Test Alert",
   "staff": true,
